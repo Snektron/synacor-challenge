@@ -1,0 +1,8 @@
+> feed part1.txt
+> run
+<ctrl-C>
+> bypass
+use teleporter
+<ctrl-C>
+> feed part2.txt
+> run
