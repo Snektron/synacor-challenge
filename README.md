@@ -1,4 +1,5 @@
 # Implementation of the [Synacor](https://challenge.synacor.com/) challenge 
+## warning - files contain spoilers
 
 To solve the challenge i implemented the VM and a series of utility programs.
 The solution to the first part is found in `part1.txt`, and the solution to
